@@ -26,6 +26,12 @@
 
 ## Overview
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1UjMTOFUn8cb0AVGkVwpmst4aUFwvuJuM/view?usp=share_link" target="_blank">
+    <img src="https://img.shields.io/badge/🎬%20Watch%20Full%20App%20Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Full Demo" />
+  </a>
+</p>
+
 Naseh is an enterprise-grade investment management platform developed for investment channels in Egypt, operating under the Financial Regulatory Authority (FRA). The app provides real-time financial data, interactive charts, client-side calculators, and comprehensive market analytics. Built with Flutter, it features a sophisticated glassmorphism design system, custom chart implementations, and performance optimizations for handling large financial datasets.
 
 - **Market**: 🇪🇬 Egypt (Financial Regulatory Authority)
@@ -300,6 +306,12 @@ lib/
 ## Demos (GIF Previews)
 
 > ⏳ **Heads up:** GIFs may take a moment to load. If playback is slow, open them directly from the repo under `assets/demos/gifs/`.
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1UjMTOFUn8cb0AVGkVwpmst4aUFwvuJuM/view?usp=share_link" target="_blank" style="display: inline-block; margin: 16px;">
+    <img src="https://img.shields.io/badge/🎬%20Watch%20Full%20App%20Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Full Demo" />
+  </a>
+</p>
 
 ### Authentication Flow
 <p align="center">
