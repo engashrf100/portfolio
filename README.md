@@ -1,13 +1,13 @@
 <div align="center">
 
-  <h1>Portfolio</h1>
+  <h1>Ashrf Atia Portfolio</h1>
 
   <p>
-    A collection of professional projects showcasing mobile development, web applications, and data analysis work.
+    Professional portfolio showcasing mobile applications, data analysis projects, and technical solutions across various industries and markets.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Flutter-Projects-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-02569B?logo=flutter&logoColor=white" alt="Flutter" />
     <img src="https://img.shields.io/badge/Data-Analysis-FF6B00?logo=python&logoColor=white" alt="Data Analysis" />
     <img src="https://img.shields.io/badge/Status-Active-success" alt="Status" />
   </p>
@@ -16,37 +16,20 @@
 
 ## Overview
 
-This repository serves as a portfolio showcase for professional projects across multiple domains. Each project is self-contained in its own directory with detailed documentation, demos, and technical specifications.
+Welcome to my professional portfolio. This repository contains a curated collection of projects demonstrating expertise in mobile application development, data analysis, and technical consulting. Each project is self-contained with comprehensive documentation, technical specifications, demos, and implementation details.
+
+**Focus Areas:**
+- **Mobile Development**: Flutter cross-platform applications with production-ready architecture
+- **Data Analysis**: Data-driven insights and visualization projects
+- **Technical Support**: Consulting, maintenance, and optimization services
 
 ## 📱 Mobile Applications (Flutter)
 
-### Production Apps
-
-#### <img src="./enterpot/assets/images/logo/logo.png" alt="Enterpot" width="60" height="60" /> [Enterpot](./enterpot/) - B2B Wholesale E-Commerce
-
-**Status**: ✅ Production (Google Play & App Store)  
-**Market**: 🇸🇦 Saudi Arabia  
-**Stack**: Flutter, GetX, .NET Backend, ClickPay, Google Maps, SQLite  
-**Highlights**: Dual user system (clients + delivery), real-time location tracking, offline cart management
-
-> [View Project Details →](./enterpot/)
-
----
-
-#### <img src="./syaratc/assets/images/app_icon.jpg" alt="Syaratc" width="60" height="60" /> [Syaratc Online](./syaratc/) - Car Marketplace & Financing
-
-**Status**: ✅ Production  
-**Market**: 🇸🇦 Saudi Arabia  
-**Stack**: Flutter, BLoC, Clean Architecture, Hive, dio + retrofit  
-**Highlights**: Interactive onboarding game, offline-first storage, multi-payment support
-
-> [View Project Details →](./syaratc/)
-
----
+### 2025 Projects
 
 #### <img src="./nase7/assets/images/logo/logo.png" alt="Naseh" width="60" height="60" /> [Naseh](./nase7/) - Investment Channels Platform
 
-**Status**: 🚧 90% Complete (Phase 1)  
+**Year**: 2025 | **Status**: 🚧 90% Complete (Phase 1)  
 **Market**: 🇪🇬 Egypt (Financial Regulatory Authority)  
 **Stack**: Flutter, BLoC + Cubit, Clean Architecture, Custom Charts, Client-Side Calculators  
 **Highlights**: Custom chart system (NasehLineChart), glassmorphism design, financial-grade calculators, dual theme system
@@ -57,12 +40,44 @@ This repository serves as a portfolio showcase for professional projects across 
 
 #### <img src="./nawah/assets/images/logo.png" alt="Nawah" width="60" height="60" /> [Nawah Healthcare](./nawah/) - Medical Consultation Platform
 
-**Status**: 🚧 75% Complete (QA & Testing)  
+**Year**: 2025 | **Status**: 🚧 75% Complete (QA & Testing)  
 **Market**: 🇪🇬 Egypt, 🇶🇦 Qatar, 🇸🇦 Saudi Arabia  
 **Stack**: Flutter, BLoC, Clean Architecture, Laravel Backend, Google Maps, Multi-Payment  
 **Highlights**: Multi-branch medical center network, booking system, social auth integration
 
 > [View Project Details →](./nawah/)
+
+---
+
+### 2024 Projects
+
+#### <img src="./syaratc/assets/images/app_icon.jpg" alt="Syaratc" width="60" height="60" /> [Syaratc Online](./syaratc/) - Car Marketplace & Financing
+
+**Year**: 2024 | **Status**: ✅ Production  
+**Market**: 🇸🇦 Saudi Arabia  
+**Stack**: Flutter, BLoC, Clean Architecture, Hive, dio + retrofit  
+**Highlights**: Interactive onboarding game, offline-first storage, multi-payment support
+
+> [View Project Details →](./syaratc/)
+
+---
+
+### 2023 Projects
+
+#### <img src="./enterpot/assets/images/logo/logo.png" alt="Enterpot" width="60" height="60" /> [Enterpot](./enterpot/) - B2B Wholesale E-Commerce
+
+**Year**: 2023 | **Status**: ✅ Production (Google Play & App Store)  
+**Market**: 🇸🇦 Saudi Arabia  
+**Stack**: Flutter, GetX, .NET Backend, ClickPay, Google Maps, SQLite  
+**Highlights**: Dual user system (clients + delivery), real-time location tracking, offline cart management
+
+> [View Project Details →](./enterpot/)
+
+---
+
+## 📊 Data Analysis Projects
+
+*Data analysis, visualization, and insights projects will be added here.*
 
 ---
 
