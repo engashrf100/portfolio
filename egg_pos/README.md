@@ -194,13 +194,7 @@ lib/
 
 ---
 
-## Riverpod Usage (Plain Language)
 
-- Feature modules expose providers responsible for fetching/caching Supabase data.
-- UI widgets call `ref.watch` for live updates; `ref.invalidate` refreshes data when returning to a screen.
-- Shared devices (multiple tablets per branch) always see fresh stock/log numbers without manual refresh buttons.
-
----
 
 ## Contact
 
