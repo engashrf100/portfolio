@@ -7,9 +7,21 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-02569B?logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Data-Analysis-FF6B00?logo=python&logoColor=white" alt="Data Analysis" />
-    <img src="https://img.shields.io/badge/Status-Active-success" alt="Status" />
+    <a href="cv-2pages.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄%20CV-Download-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
+    </a>
+    <a href="./certificates/README.md" target="_blank">
+      <img src="https://img.shields.io/badge/🏆%20Certificates-View-green?style=for-the-badge&logo=github&logoColor=white" alt="Certificates" />
+    </a>
+    <a href="https://www.linkedin.com/in/ashrf-atia-mostafa-92538a318/" target="_blank">
+      <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+  <p>
+    <strong>Contact:</strong><br>
+    📧 <a href="mailto:eng.ashrf100@gmail.com?subject=Portfolio%20Inquiry">eng.ashrf100@gmail.com</a><br>
+    📱 <a href="https://wa.me/201287200535" target="_blank">+20 128 720 0535</a>
   </p>
 
 </div>
@@ -59,6 +71,17 @@ Welcome to my professional portfolio. This repository contains a curated collect
 **Highlights**: Interactive onboarding game, offline-first storage, multi-payment support
 
 > [View Project Details →](./syaratc/)
+
+---
+
+#### 🥚 [Egg POS](./egg_pos/) - Mini SaaS POS System
+
+**Year**: 2024 | **Status**: ✅ Production (Tablet deployment)  
+**Market**: 🇪🇬 Egypt (Micro-retail egg branches)  
+**Stack**: Flutter, Riverpod, Supabase, Feature-first MVVM  
+**Highlights**: Tablet-first UX for seniors, FIFO inventory tracking, Arabic-first RTL design, multi-tenant SaaS architecture
+
+> [View Project Details →](./egg_pos/)
 
 ---
 
