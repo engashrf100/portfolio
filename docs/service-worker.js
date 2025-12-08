@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ashrf-portfolio-v4';
+const CACHE_NAME = 'ashrf-portfolio-v6';
 const ASSETS = [
   './',
   './index.html',
